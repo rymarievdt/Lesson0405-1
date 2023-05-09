@@ -1,0 +1,23 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  margin: 0;
+}
+
+button {
+  padding: 0.3rem 0.6rem;
+  border: 1px solid rgb(29, 83, 145);
+  border-radius: 9px;
+  background-color: rgb(182, 216, 255);
+  user-select: none;
+}
+
+button:hover {
+  background-color: rgb(124, 185, 255);
+}
+
+input {
+  border-radius: 8px;
+  border: 1px solid rgb(29, 83, 145);
+  padding: 0.3rem 0.6rem;
+}
